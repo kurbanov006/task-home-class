@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\ClassTask\bin\Debug\net8.0\ClassTask.exe
+C:\Users\admin\Desktop\ClassTask\bin\Debug\net8.0\ClassTask.deps.json
+C:\Users\admin\Desktop\ClassTask\bin\Debug\net8.0\ClassTask.runtimeconfig.json
+C:\Users\admin\Desktop\ClassTask\bin\Debug\net8.0\ClassTask.dll
+C:\Users\admin\Desktop\ClassTask\bin\Debug\net8.0\ClassTask.pdb
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ClassTask.AssemblyInfo.cs
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ClassTask.dll
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\refint\ClassTask.dll
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ClassTask.pdb
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ClassTask.genruntimeconfig.cache
+C:\Users\admin\Desktop\ClassTask\obj\Debug\net8.0\ref\ClassTask.dll
